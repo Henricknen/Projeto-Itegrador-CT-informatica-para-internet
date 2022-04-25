@@ -1,0 +1,1 @@
+depois de clonado do meu github https://github.com/Henricknen, entre no prompt e dentro da pasta frontend digite o comando 'npm install', ira baixar todas as dependençias e por fim digite 'ng serve' que criara o link de acesso
